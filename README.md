@@ -9,7 +9,12 @@
 
 [![My IDE](https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity)](https://skillicons.dev)
 
+<h3>Statistic</h3>
+
 ![LTP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTPPPP&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTPPPP&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
