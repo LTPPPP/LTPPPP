@@ -3,11 +3,11 @@
 
 <h3 align="left"> My Language</h3>
 
-[![Language](https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css,python,nodejs,go)](https://skillicons.dev)
 
 <h3 align="left">My IDE</h3>
 
-[![My IDE](https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity)](https://skillicons.dev)
+[![My IDE](https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity,pycharm)](https://skillicons.dev)
 
 <h3>Statistic</h3>
 
