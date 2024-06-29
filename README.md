@@ -1,9 +1,9 @@
 ### LTP 👋
 <h2 align="center">Just a dumb & lazy guys passion with coding</h2>
 
-<h3 align="left"> My Language</h3>
+<h3 align="left">I'm using</h3>
 
-[![Language](https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css,python,nodejs,go)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css,python,nodejs,go,docker)](https://skillicons.dev)
 
 <h3 align="left">My IDE</h3>
 
