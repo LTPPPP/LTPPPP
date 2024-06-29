@@ -1,5 +1,5 @@
 ### LTP 👋
-<h2 align="center">Just a dumb guys passion with coding</h2>
+<h2 align="center">Just a dumb & lazy guys passion with coding</h2>
 
 <h3 align="left"> My Language</h3>
 
