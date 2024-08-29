@@ -3,7 +3,7 @@
 
 <h3 align="left">I'm using</h3>
 
-[![Language](https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css,python,nodejs,go,docker)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css,python,nodejs,go,docker,react,spring)](https://skillicons.dev)
 
 <h3 align="left">My IDE</h3>
 
