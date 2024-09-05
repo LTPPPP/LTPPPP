@@ -1,5 +1,5 @@
 ### LTP 👋
-<h2 align="center">Just a dumb & lazy guys passion with coding</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Just+a+dumb+%26+lazy+guys+passion+with+coding" alt="Typing SVG" /></a>
 
 <h3 align="left">I'm using</h3>
 
