@@ -24,6 +24,7 @@
 <a href="https://www.linkedin.com/in/l%c3%a2m-t%e1%ba%a5n-ph%c3%a1t-36822524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/l%c3%a2m-t%e1%ba%a5n-ph%c3%a1t-36822524a/" height="30" width="40" /></a>
 </p>
 
-<h3>RANK</h3>
-
 [![committers.top badge](https://user-badge.committers.top/vietnam/USERNAME.svg)](https://user-badge.committers.top/vietnam/LTPPPP)
+
+
+[![](https://visitcount.itsvg.in/api?id=LTPPPP&label=Stalker&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
