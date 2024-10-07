@@ -14,7 +14,7 @@
 ![LTP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTPPPP&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTPPPP&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTPPPP&layout=compact&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
