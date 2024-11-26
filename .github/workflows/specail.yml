@@ -34,7 +34,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
 
       - name: Update Weather
         uses: huantt/weather-forecast@v1.0.6
