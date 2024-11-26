@@ -35,10 +35,14 @@ jobs:
           echo "Thống kê Wakatime:" >> README.md
           jq -r '.data[]?.grand_total?.text // "No data"' wakatime.json >> README.md
 
-      - name: Commit and Push Changes
+            - name: Commit and Push Changes
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --global user.name "LTPPPP"
           git config --global user.email "lamphat279@gmail.com"
+          git remote set-url origin https://LTPPPP:${PAT_TOKEN}@github.com/LTPPPP/LTPPPP.git
           git add README.md
           git commit -m "Auto-update README with Wakatime [skip ci]" || echo "No changes to commit"
-          git push
+          git push origin main
+
