@@ -53,7 +53,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=LTPPPP&label=Stalker&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-### 📊 WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
