@@ -23,12 +23,14 @@
 <h3>Statistic</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LTPPPP&show_icons=true&theme=tokyonight" alt="LTP's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LTPPPP&show_icons=true&theme=tokyonight&hide_border=true" alt="LTP's GitHub stats" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LTPPPP&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTPPPP&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTPPPP&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -43,7 +45,7 @@
     </a>
     <a href="https://www.youtube.com/channel/UCOrENFVs4H3El9BRpVFfj3w" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-    </a>
+    </a>    
 </p>
 
 ## Badge
