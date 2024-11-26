@@ -1,18 +1,39 @@
-name: Update WakaTime Stats
+name: Update README
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 * * * *" # Cập nhật mỗi giờ
-  workflow_dispatch:
+    - cron: "*/5 * * * *"
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
 
-      - name: Update WakaTime Stats
-        uses: athul/waka-readme@v2
-        with:
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Wakatime Data
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -s -G \
+            -d "api_key=$WAKATIME_API_KEY" \
+            https://wakatime.com/api/v1/users/current/summaries \
+            > wakatime.json
+
+      - name: Update README
+        run: |
+          echo "Cập nhật lần cuối: $(date)" >> README.md
+          echo "Thống kê Wakatime:" >> README.md
+          jq -r '.data[].grand_total.text' wakatime.json >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "LTPPPP"
+          git config --global user.email "lamphat279@gmail.com"
+          git add README.md
+          git commit -m "Auto-update README with Wakatime [skip ci]" || echo "No changes to commit"
+          git push
