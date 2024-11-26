@@ -19,16 +19,21 @@ jobs:
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          curl -s -G \
-            -d "api_key=$WAKATIME_API_KEY" \
-            https://wakatime.com/api/v1/users/current/summaries \
-            > wakatime.json
+          curl -s -G -d "api_key=$WAKATIME_API_KEY" https://wakatime.com/api/v1/users/current/summaries -o wakatime.json
+          cat wakatime.json
+
+      - name: Validate JSON
+        run: |
+          if ! jq empty wakatime.json; then
+            echo "Invalid JSON response"
+            exit 1
+          fi
 
       - name: Update README
         run: |
           echo "Cập nhật lần cuối: $(date)" >> README.md
           echo "Thống kê Wakatime:" >> README.md
-          jq -r '.data[].grand_total.text' wakatime.json >> README.md
+          jq -r '.data[]?.grand_total?.text // "No data"' wakatime.json >> README.md
 
       - name: Commit and Push Changes
         run: |
