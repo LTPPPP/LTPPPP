@@ -31,7 +31,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTPPPP&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/l%c3%a2m-t%e1%ba%a5n-ph%c3%a1t-36822524a/" target="blank">
@@ -49,6 +48,12 @@
 </p>
 
 ## Badge
+
 [![committers.top badge](https://user-badge.committers.top/vietnam/LTPPPP.svg)](https://user-badge.committers.top/vietnam/LTPPPP)
 
 [![](https://visitcount.itsvg.in/api?id=LTPPPP&label=Stalker&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+### 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
