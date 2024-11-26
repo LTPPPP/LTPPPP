@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<h3>TECH :</h3>
+<h3>Languages</h3>
 
 <p align="center">
     <a href="https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css,python,nodejs,go,docker,react,spring">
