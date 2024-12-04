@@ -57,3 +57,10 @@
 [![committers.top badge](https://user-badge.committers.top/vietnam/LTPPPP.svg)](https://user-badge.committers.top/vietnam/LTPPPP)
 
 [![](https://visitcount.itsvg.in/api?id=LTPPPP&label=Stalker&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LTPPPP/LTPPPP/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LTPPPP/LTPPPP/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LTPPPP/LTPPPP/output/github-snake.svg" />
+</picture>
