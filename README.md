@@ -46,9 +46,10 @@
     <a href="https://www.youtube.com/channel/UCOrENFVs4H3El9BRpVFfj3w" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
     </a>    
-    <a href="https://portfolio-lamtanphat.vercel.app/" target="blank">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimages%2Fpng-global.html&psig=AOvVaw0XV_023z4L3UY4m2b8KJyC&ust=1733381977339000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLipm5vFjYoDFQAAAAAdAAAAABAE" alt="Website" height="30" width="40" />
+    <a href="https://portfolio-lamtanphat.vercel.app/" target="blank" style="text-decoration:none;">
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" alt="Website" height="30" width="40" />
     </a>
+
 </p>
 
 ## Badge
