@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/SunoBB/github-badges">
+    <a href="https://github.com/LTPPPP/github-badges">
         <img title="Last commit Readme's" alt="LTPPPP's Badge" src="https://img.shields.io/github/last-commit/LTPPPP/LTPPPP?&style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/>
 
 </a>
