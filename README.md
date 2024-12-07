@@ -5,6 +5,13 @@
     <img src="https://github.com/user-attachments/assets/8fdff738-72e9-449a-8b55-a58a2342e6c2" alt="cat-cry" width="50" />
 </p>
 
+<p align="center">
+    <a href="https://github.com/SunoBB/github-badges">
+        <img title="Last commit Readme's" alt="LTPPPP's Badge" src="https://img.shields.io/github/last-commit/LTPPPP/LTPPPP?&style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/>
+
+</a>
+</p>
+
 <h3>Languages</h3>
 
 <p align="center">
@@ -57,6 +64,7 @@
 [![committers.top badge](https://user-badge.committers.top/vietnam/LTPPPP.svg)](https://user-badge.committers.top/vietnam/LTPPPP)
 
 [![](https://visitcount.itsvg.in/api?id=LTPPPP&label=Stalker&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LTPPPP/LTPPPP/output/github-snake-dark.svg" />
