@@ -66,6 +66,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=LTPPPP&label=Stalker&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LTPPPP&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LTPPPP/LTPPPP/output/github-snake-dark.svg" />
