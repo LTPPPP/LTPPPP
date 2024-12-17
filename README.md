@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity,pycharm">
-        <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,remix,sublime,unity,pycharm,idea" alt="My IDE" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity,pycharm,idea" alt="My IDE" />
     </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity,pycharm">
-        <img src="https://skillicons.dev/icons?i=gcp,git,docker,ipfs" alt="My IDE" />
+        <img src="https://skillicons.dev/icons?i=windows,gcp,git,docker,ipfs" alt="My IDE" />
     </a>
 </p>
 
