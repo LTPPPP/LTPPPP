@@ -5,10 +5,6 @@
     <img src="https://github.com/user-attachments/assets/8fdff738-72e9-449a-8b55-a58a2342e6c2" alt="cat-cry" width="50" />
 </p>
 
-<p align="center">
-    <a href="https://discord.com/users/611488294978584585"><img src="https://lanyard.cnrad.dev/api/611488294978584585" /></a>
-</p>
-
 <h3>Skills</h3>
 
 <p align="center">
@@ -61,6 +57,10 @@
     <a href="https://portfolio-lamtanphat.vercel.app/" target="blank" style="text-decoration:none;">
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" alt="Website" height="30" width="40" />
     </a>
+
+<p align="center">
+    <a href="https://discord.com/users/611488294978584585"><img src="https://lanyard.cnrad.dev/api/611488294978584585" /></a>
+</p>
 
 ## Badge
 
