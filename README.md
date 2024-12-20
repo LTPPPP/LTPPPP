@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css,python,nodejs,go,docker,react,spring">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,solidity,java,js,html,css,bootstrap,python,nodejs,go,react,spring,arduino,dotnet,figma,tailwind,mysql,php,wordpress,nextjs,mongodb,postgres,django" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,solidity,java,js,html,css,bootstrap,python,nodejs,go,react,spring,arduino,dotnet,tailwind,mysql,php,wordpress,nextjs,mongodb,postgres,django" alt="Skills" />
     </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity,pycharm">
-        <img src="https://skillicons.dev/icons?i=windows,gcp,git,docker,ipfs" alt="My IDE" />
+        <img src="https://skillicons.dev/icons?i=windows,gcp,figma,git,docker,ipfs" alt="My IDE" />
     </a>
 </p>
 
