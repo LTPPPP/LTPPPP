@@ -32,6 +32,7 @@
 <h3>Statistic</h3>
 
 <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LTPPPP&theme=tokyonight&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=LTPPPP&show_icons=true&theme=tokyonight&hide_border=true" alt="LTP's GitHub stats" />
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LTPPPP&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
