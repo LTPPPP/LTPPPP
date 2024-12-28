@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-      <img src="https://github.com/user-attachments/assets/8fdff738-72e9-449a-8b55-a58a2342e6c2" alt="cat-cry" width="100" />
+      <img src="https://github.com/user-attachments/assets/8fdff738-72e9-449a-8b55-a58a2342e6c2" alt="cat-cry" width="150" />
 </div>
 
 <h3>Skills</h3>
