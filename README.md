@@ -70,7 +70,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/vietnam/LTPPPP.svg)](https://user-badge.committers.top/vietnam/LTPPPP)
 
-[![](https://visitcount.itsvg.in/api?id=LTPPPP&label=Stalker&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=LTPPPP&color=ff69b4)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LTPPPP&theme=nord&no-frame=true&no-bg=true&margin-w=4)
