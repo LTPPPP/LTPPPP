@@ -58,7 +58,7 @@
     <a href="https://www.youtube.com/channel/UCOrENFVs4H3El9BRpVFfj3w" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
     </a>    
-    <a href="https://portfolio-lamtanphat.vercel.app/" target="blank" style="text-decoration:none;">
+    <a href="https://lamtanphat.vercel.app/" target="blank" style="text-decoration:none;">
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" alt="Website" height="30" width="40" />
     </a>
 
