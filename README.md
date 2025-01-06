@@ -70,6 +70,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/vietnam/LTPPPP.svg)](https://user-badge.committers.top/vietnam/LTPPPP)
 
+## Visitors counter
 ![](https://count.getloli.com/@AnataAria?name=LTPPPP&theme=booru-the-collection&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 ## 🏆GitHub Trophies
