@@ -72,6 +72,8 @@
 
 ![](https://komarev.com/ghpvc/?username=LTPPPP&color=ff69b4)
 
+![](https://count.getloli.com/@AnataAria?name=LTPPPP&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LTPPPP&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
