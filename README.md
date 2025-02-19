@@ -28,7 +28,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity,pycharm">
-        <img src="https://skillicons.dev/icons?i=windows,gcp,figma,git,docker,ipfs" alt="My IDE" />
+        <img src="https://skillicons.dev/icons?i=windows,gcp,figma,git,docker,ipfs,aws" alt="My IDE" />
     </a>
 </p>
 
