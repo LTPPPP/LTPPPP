@@ -62,10 +62,6 @@
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" alt="Website" height="30" width="40" />
     </a>
 
-## Badge
-
-[![committers.top badge](https://user-badge.committers.top/vietnam/LTPPPP.svg)](https://user-badge.committers.top/vietnam/LTPPPP)
-
 ## Visitors counter
 ![](https://count.getloli.com/@AnataAria?name=LTPPPP&theme=booru-the-collection&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
