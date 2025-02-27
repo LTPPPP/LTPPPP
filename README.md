@@ -62,10 +62,6 @@
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" alt="Website" height="30" width="40" />
     </a>
 
-<p align="center">
-    <a href="https://discord.com/users/611488294978584585"><img src="https://lanyard.cnrad.dev/api/611488294978584585" /></a>
-</p>
-
 ## Badge
 
 [![committers.top badge](https://user-badge.committers.top/vietnam/LTPPPP.svg)](https://user-badge.committers.top/vietnam/LTPPPP)
@@ -74,7 +70,7 @@
 ![](https://count.getloli.com/@AnataAria?name=LTPPPP&theme=booru-the-collection&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LTPPPP&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=LTPPPP&theme=nord&no-frame=true&no-bg=true&margin-w=10)
 
 
 <picture>
