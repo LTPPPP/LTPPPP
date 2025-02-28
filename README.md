@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css,python,nodejs,go,docker,react,spring">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,solidity,java,js,html,css,bootstrap,python,nodejs,go,react,spring,arduino,dotnet,tailwind,mysql,php,wordpress,nextjs,mongodb,postgres,django" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,typescript,solidity,java,js,html,css,bootstrap,python,nodejs,go,react,spring,arduino,dotnet,tailwind,mysql,php,wordpress,nextjs,mongodb,postgres,django" alt="Skills" />
     </a>
 </p>
 
