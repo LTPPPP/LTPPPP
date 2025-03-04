@@ -35,9 +35,9 @@
 <h3>Statistic</h3>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LTPPPP&theme=tokyonight&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=LTPPPP&show_icons=true&theme=tokyonight&hide_border=true" alt="LTP's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LTPPPP&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LTPPPP&theme=tokyonight&count_private=true&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LTPPPP&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"" alt="LTP's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=LTPPPP&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
