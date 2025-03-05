@@ -8,38 +8,6 @@
       <img src="https://github.com/user-attachments/assets/8fdff738-72e9-449a-8b55-a58a2342e6c2" alt="cat-LUCKY-HUGEHUGEBIGHUGE" width="77"/>
 </div>
 
-<h3>Skills</h3>
-
-<p align="center">
-    <a href="https://skillicons.dev/icons?i=c,cpp,solidity,java,js,html,css,python,nodejs,go,docker,react,spring">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,typescript,solidity,java,js,html,css,bootstrap,python,nodejs,go,react,spring,arduino,dotnet,tailwind,mysql,php,wordpress,nextjs,mongodb,postgres,django" alt="Skills" />
-    </a>
-</p>
-
-<h3>My IDE</h3>
-
-<p align="center">
-    <a href="https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity,pycharm">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity,pycharm,idea" alt="My IDE" />
-    </a>
-</p>
-
-<h3>Others</h3>
-
-<p align="center">
-    <a href="https://skillicons.dev/icons?i=vscode,visualstudio,remix,sublime,unity,pycharm">
-        <img src="https://skillicons.dev/icons?i=windows,gcp,figma,git,docker,ipfs,aws" alt="My IDE" />
-    </a>
-</p>
-
-<h3>Statistic</h3>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LTPPPP&theme=tokyonight&count_private=true&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api?username=LTPPPP&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"" alt="LTP's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LTPPPP&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></a>
-</p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTPPPP&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
@@ -65,12 +33,3 @@
 ## Visitors counter
 ![](https://count.getloli.com/@AnataAria?name=LTPPPP&theme=booru-the-collection&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LTPPPP&theme=nord&no-frame=true&no-bg=true&margin-w=10)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LTPPPP/LTPPPP/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LTPPPP/LTPPPP/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LTPPPP/LTPPPP/output/github-snake.svg" />
-</picture>
