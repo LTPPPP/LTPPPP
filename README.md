@@ -8,15 +8,6 @@
       <img src="https://github.com/user-attachments/assets/8fdff738-72e9-449a-8b55-a58a2342e6c2" alt="cat-LUCKYHUGEBIGHUGEHUGEHUGEHUGEHUGEHUGE" width="77"/>
 </div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LTPPPP&show_icons=true&theme=tokyonight&hide_border=true" alt="LTPPPP's GitHub stats" />
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LTPPPP&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTPPPP&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/l%c3%a2m-t%e1%ba%a5n-ph%c3%a1t-36822524a/" target="blank">
