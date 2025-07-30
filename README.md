@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-      <img src="https://github.com/user-attachments/assets/8fdff738-72e9-449a-8b55-a58a2342e6c2" alt="cat-LUCKYBIGHUGEHUGEHUGEHUGEHUGEHUGEHUGEHUGE" width="77"/>
+      <img src="https://github.com/user-attachments/assets/8fdff738-72e9-449a-8b55-a58a2342e6c2" alt="cat-LUCKYBIGHUGEHUGEHUGEHUGEHUGEHUGEHUGEHUGEHUGE" width="77"/>
 </div>
 
 <h3 align="center">Connect with me:</h3>
