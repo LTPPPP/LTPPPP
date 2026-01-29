@@ -16,3 +16,5 @@
     <a href="https://lamtanphat.io.vn/" target="blank" style="text-decoration:none;">
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" alt="Website" height="30" width="40" />
     </a>
+    
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hdubmntcmy2nyrwvrn5jkusmya)
