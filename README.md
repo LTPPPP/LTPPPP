@@ -21,6 +21,3 @@
    
    
    ![Profile views](https://counter.kuber.studio/LTPPPP/glassmorphism/count.svg) 
-
-   
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hdubmntcmy2nyrwvrn5jkusmya)
