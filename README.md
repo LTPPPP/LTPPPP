@@ -16,8 +16,3 @@
     <a href="https://lamtanphat.io.vn/" target="blank" style="text-decoration:none;">
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" alt="Website" height="30" width="40" />
     </a>
-
-    
-   
-   
-   ![Profile views](https://counter.kuber.studio/LTPPPP/glassmorphism/count.svg) 
